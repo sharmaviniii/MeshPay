@@ -861,10 +861,3 @@ The first run downloads Maven and the dependencies. It should be much faster aft
 The concurrency test is timing-sensitive. If it fails once, run it again. If it keeps failing, I'd investigate the actual failure rather than assuming the test is broken.
 
 ---
-
-# License
-
-This is demo/learning code with no license.
-
-Feel free to use it for learning and experimentation.
-
